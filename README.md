@@ -3,6 +3,6 @@ Blutspendeausweis - App
 
 Bug Report Site
 
-DE: Fehler hier als Task eintragen
+DE: Fehler unter "Issues" eintragen
 
-EN: Add a task for bugs here
+EN: Add a "issue" for bugs that were reported
