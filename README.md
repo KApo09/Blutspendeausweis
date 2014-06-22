@@ -1,4 +1,4 @@
-Blutspendeausweis - Die App Für Blutspender
+Blutspendeausweis - App
 =================
 
 Bug Report Site
